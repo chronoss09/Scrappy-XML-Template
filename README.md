@@ -7,8 +7,8 @@ XML file to use on muOS theme with Scrappy
 <tr>
 <td align="center" valign="top" width="33.33%">
         <br/>
-        <a href="https://raw.githubusercontent.com/spruceUI/Themes/main/PackedThemes/Another%20369px%20theme.7z">
-        <img title="New Arcade Cabinet overlay" width="500px" src="https://github.com/user-attachments/assets/e850d448-952d-4b94-abc6-c11bc8aebe50" /><br/>
+        <img title="New Arcade Cabinet overlay" width="500px" src="https://github.com/user-attachments/assets/e850d448-952d-4b94-abc6-c11bc8aebe50"/><br/>
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/New%20Arcade%20Cabinet%20overlay%20(XML).muxapp">
         <b>New Arcade Cabinet<br/>with overlay</b></a><br/>
         <small><i>Goog for Arcades games but you can use it anywhere too</i></small><br/>
         </td>
