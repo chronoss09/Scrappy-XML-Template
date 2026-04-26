@@ -40,7 +40,7 @@ XML file to use on muOS theme with Scrappy
         <img width="640" height="480" alt="Two Mix Layout little cover with cartridge" src="https://github.com/user-attachments/assets/a2999faf-5398-463b-87e0-dea7dafcefac" />
         <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20little%20cover%20with%20cartridge%20(XML).muxapp">
         <b>Two Mix Layout little cover with cartridge</b></a><br/>
-        <small><i>Usefull for little box lika SNES</i></small><br/>
+        <small><i>Usefull for little box like SNES (u can change le snes.png in frames folder to use on another game section)</i></small><br/>
         </td>
 <td align="center" valign="top" width="22.22%">
         <br/>
@@ -62,6 +62,36 @@ XML file to use on muOS theme with Scrappy
         <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20small%20cover%20with%20cartridge%20(XML).muxapp">
         <b>Two Mix Layout small cover with cartridge</b></a><br/>
         <small><i>Usefull for small box</i></small><br/>
+        </td>
+</tr>
+<tr>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="640" height="480" alt="Two Mix Layout small cover with cartridge gb gbc" src="https://github.com/user-attachments/assets/22a50426-a417-4fc9-bd5d-b7f1c91f8a90" />
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20small%20cover%20with%20cartridge%20gb.gbc%20(XML).muxapp">
+        <b>Two Mix Layout small box with cartridge gb gbc</b></a><br/>
+        <small><i>Usefull for GB and GBC game</i></small><br/>
+        </td>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="640" height="480" alt="Two Mix Layout small cover with cartridge gba" src="https://github.com/user-attachments/assets/8b472c72-e206-43b4-85cf-7d759234b314" />      
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20small%20cover%20with%20cartridge%20gba%20(XML).muxapp">
+        <b>Two Mix Layout small cover with cartridge gba</b></a><br/>
+        <small><i>Usefull for GBA game (u can change le gba.png in frames folder to use on another game section)</i></small><br/>
+        </td>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="640" height="480" alt="Two Mix Layout small cover with cartridge gba2" src="https://github.com/user-attachments/assets/3d2f23c8-b7fd-47dd-abf8-8db3b8603c60" />
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20small%20cover%20with%20cartridge%20gba2%20(XML).muxapp">
+        <b>Two Mix Layout small box with cartridge gba 2</b></a><br/>
+        <small><i>Usefull for GBA game (u can change le gba.png in frames folder to use on another game section but u need to edit your picture for the little screenshot on the gba console)</i></small><br/>
+        </td>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="640" height="480" alt="Two Mix Layout small cover with cartridge gba3" src="https://github.com/user-attachments/assets/36bcd8dc-1de1-45de-85b6-ad63abf8053a" />
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20small%20cover%20with%20cartridge%20gba3%20(XML).muxapp">
+        <b>Two Mix Layout small box with cartridge gba 3</b></a><br/>
+        <small><i>Usefull for GBA game (u can change le gba2.png in frames folder to use on another game section but u need to edit your picture)</i></small><br/>
         </td>
 </tr>
 
