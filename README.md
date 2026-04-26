@@ -124,5 +124,33 @@ XML file to use on muOS theme with Scrappy
         <small><i>U need to edit your theme to use this</i></small><br/>
         </td>
 </tr>
-
-
+<tr>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="640" height="480" alt="Two Mix Layout long 3D cover ARC" src="https://github.com/user-attachments/assets/7d4cd290-fee8-4278-8818-a5d476814b0c" />
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20long%203D%20cover%20ARC%20(XML).muxapp">
+        <b>3D box ARC</b></a><br/>
+        <small><i>3D box for Arcades games</i></small><br/>
+        </td>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="640" height="480" alt="Two Mix Layout long 3D cover MD GEN" src="https://github.com/user-attachments/assets/5af6d90b-2941-4bd1-8e1a-6c34644402f5" />      
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20long%203D%20cover%20MD.GEN%20(XML).muxapp">
+        <b>3D box MD GEN</b></a><br/>
+        <small><i>3D box for Arcades games</i></small><br/>
+        </td>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="640" height="480" alt="Two Mix Layout long 3D cover NES" src="https://github.com/user-attachments/assets/8cbea8b0-5931-4e6c-9527-e6dddc6a58b8" />
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20long%203D%20cover%20NES%20(XML).muxapp">
+        <b>3D box NES</b></a><br/>
+        <small><i>3D box for NES games</i></small><br/>
+        </td>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="640" height="480" alt="Two Mix Layout PSP UMD" src="https://github.com/user-attachments/assets/811922aa-0368-4711-a8e2-4506222d4a5c" />
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20long%203D%20cover%20PSP%20UMD%20(XML).muxapp">
+        <b>3D box for PSP with UPD/b></a><br/>
+        <small><i>3D box PSP with UMD icon</i></small><br/>
+        </td>
+</tr>
