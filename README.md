@@ -1,6 +1,8 @@
 # Scrappy XML Template
 XML file to use on muOS theme with [Scrappy](https://github.com/saitamasahil/scrappy) and thanks very much to __saitamasahil__ to update Scrappy and create the great template to create/mod or edit xml file ;) 
 
+For donations : [![Buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/chronoss) [![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)
+
 ## Template for 35xx/40xx console (640x480)
 <table align="center">
 <tr>
