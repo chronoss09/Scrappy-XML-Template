@@ -1,8 +1,7 @@
 # Scrappy XML Template
-XML file to use on muOS theme with Scrappy
+XML file to use on muOS theme with [Scrappy](https://github.com/saitamasahil/scrappy) and thanks very much to __saitamasahil__ to update Scrappy and create the great template to create/mod or edit xml file ;) 
 
 ## Template for 35xx/40xx console (640x480)
-
 <table align="center">
 <tr>
 <td align="center" valign="top" width="22.22%">
@@ -154,3 +153,5 @@ XML file to use on muOS theme with Scrappy
         <small><i>3D box PSP with UMD icon</i></small><br/>
         </td>
 </tr>
+
+## Template for Trimui SMart Pro console (1280x720)
