@@ -153,5 +153,6 @@ XML file to use on muOS theme with [Scrappy](https://github.com/saitamasahil/scr
         <small><i>3D box PSP with UMD icon</i></small><br/>
         </td>
 </tr>
-
-## Template for Trimui SMart Pro console (1280x720)
+</table>
+                
+## Template for Trimui Smart Pro console (1280x720)
