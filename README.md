@@ -94,5 +94,35 @@ XML file to use on muOS theme with Scrappy
         <small><i>Usefull for GBA game (u can change le gba2.png in frames folder to use on another game section but u need to edit your picture)</i></small><br/>
         </td>
 </tr>
+<tr>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="640" height="480" alt="Two Mix Layout long 2D cover" src="https://github.com/user-attachments/assets/9f7cf9fd-6c3c-4605-953b-b4d7f4c47b12" />
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20long%202D%20cover%20(XML).muxapp">
+        <b>2D box long</b></a><br/>
+        <small><i>Long 2D box</i></small><br/>
+        </td>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="640" height="480" alt="Two Mix Layout long 3D cover" src="https://github.com/user-attachments/assets/fdc6802a-a842-423f-996d-1505fd7d875a" />      
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20long%203D%20cover%20(XML).muxapp">
+        <b>3D box long</b></a><br/>
+        <small><i>Long 3D box</i></small><br/>
+        </td>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="640" height="480" alt="Two Mix Layout small 2D cover" src="https://github.com/user-attachments/assets/9f8f0f67-1b96-4e69-be80-657438628ad9" />
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20small%202D%20cover%20(XML).muxapp">
+        <b>2D small box</b></a><br/>
+        <small><i>Small 3D box</i></small><br/>
+        </td>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="640" height="480" alt="Two Mix Layout marquee" src="https://github.com/user-attachments/assets/821bdd67-9425-4b0d-becf-5b25594a66fe" />
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20marquee%20(XML).muxapp">
+        <b>Right screenshot with marquee</b></a><br/>
+        <small><i>U need to edit your theme to use this</i></small><br/>
+        </td>
+</tr>
 
 
