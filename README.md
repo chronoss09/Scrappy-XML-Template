@@ -145,7 +145,7 @@ For donations : [![Buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20
 </tr>
 </table>
 
-## Template for 35xx/40xx console (640x480) (Create on my [iiSU muOS](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/iisu)
+## Template for 35xx/40xx console (640x480) (Create on my [iiSU muOS](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/iisu))
 <table align="center">
 <tr>
 <td align="center" valign="top" width="22.22%">
@@ -165,7 +165,7 @@ For donations : [![Buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20
 </tr>
 </table>
                 
-## Template for Trimui Smart Pro console (Create on my [muOS Alekfull-NX Collection](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/alek)
+## Template for Trimui Smart Pro console (Create on my [muOS Alekfull-NX Collection](https://github.com/chronoss09/Theme-muOS-Goose/releases/tag/alek))
 <table align="center">
 <tr>
 <td align="center" valign="top" width="22.22%">
@@ -222,8 +222,38 @@ For donations : [![Buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20
 <td align="center" valign="top" width="22.22%">
         <br/>
         <img width="1280" height="720" alt="Cover 3D (long) TSP" src="https://github.com/user-attachments/assets/d8f0d2c3-6e3a-4473-ab0b-bf61f28ab5bb"/>
-        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/640x480/Two%20Mix%20Layout%20all%20(XML).muxapp">
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/TSP/Alekfull-NX/Cover%203D%20(long)%20TSP.muxappp">
         <b>Cover 3D (long)</b></a><br/>
         <small><i>Big 3D box for long box game</i></small><br/>
+        </td>
+</tr>
+<tr>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="1280" height="720" alt="Cover 3D (NDS) TSP" src="https://github.com/user-attachments/assets/17b7e74d-8d2c-4755-9781-89b934476965" />
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/TSP/Alekfull-NX/Cover%203D%20(NDS)%20TSP.muxapp">
+        <b>Cover 3D (NDS)</b></a><br/>
+        <small><i>3D box for NDS game</i></small><br/>
+        </td>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="1280" height="720" alt="Cover 3D (PSP) TSP" src="https://github.com/user-attachments/assets/7da720e2-a174-488a-8997-450f65b2a442" />       
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/TSP/Alekfull-NX/Cover%203D%20(PSP)%20TSP.muxapp">
+        <b>Cover 3D (PSP)</b></a><br/>
+        <small><i>3D box PSP game</i></small><br/>
+        </td>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+        <img width="1280" height="720" alt="Cover 3D (PSX) TSP" src="https://github.com/user-attachments/assets/8c53b546-33c4-4fc6-b83b-2941ce58f4e3" />
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/TSP/Alekfull-NX/Cover%203D%20(PSX)%20TSP.muxapp">
+        <b>Cover 3D (PSX)</b></a><br/>
+        <small><i>3D box for PSX game</i></small><br/>
+        </td>
+<td align="center" valign="top" width="22.22%">
+        <br/>
+       <img width="1280" height="720" alt="Cover 3D (SNES) TSP" src="https://github.com/user-attachments/assets/62cad6a5-34e5-4d97-8476-37d40160d1e5" />
+        <a href="https://github.com/chronoss09/Scrappy-XML-Template/blob/main/TSP/Alekfull-NX/Cover%203D%20(SNES)%20TSP.muxapp">
+        <b>Cover 3D (SNES)</b></a><br/>
+        <small><i>3D box for SNES</i></small><br/>
         </td>
 </tr>
